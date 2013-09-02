@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  date: 2013-09-01
+  time: 2013-09-01 19:02:27
+  client: 
+  notes: MyText
+
+two:
+  date: 2013-09-01
+  time: 2013-09-01 19:02:27
+  client: 
+  notes: MyText
